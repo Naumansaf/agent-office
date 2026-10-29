@@ -31,15 +31,7 @@ Then restart Claude Code, or run `/reload-plugins` in an open session. Run `/plu
 
 In the **Claude Desktop app** (Code tab) you get the illustrated office plus a live list of every agent. In the **terminal** you get the live list.
 
-Helpers only appear when Claude actually uses helper agents. For a big task, ask for them:
-
-```
-Use 4 subagents in parallel, with these exact names:
-1. "SEO check": ...
-2. "Speed test": ...
-```
-
-The names you give become the agents' name tags.
+Helpers appear on their own whenever Claude uses helper agents for a task. There's nothing to set up: each one gets a name tag based on the job Claude gives it.
 
 ## What you'll see
 
