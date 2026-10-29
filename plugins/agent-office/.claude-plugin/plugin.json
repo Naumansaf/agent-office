@@ -1,0 +1,10 @@
+{
+  "name": "agent-office",
+  "version": "0.2.0",
+  "description": "Watch Claude and its helper agents work in a small animated office",
+  "author": { "name": "Nauman Safdar" },
+  "homepage": "https://github.com/Naumansaf/agent-office",
+  "repository": "https://github.com/Naumansaf/agent-office",
+  "license": "MIT",
+  "keywords": ["mod", "agents", "subagents", "visualization", "office"]
+}

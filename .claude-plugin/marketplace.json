@@ -1,0 +1,12 @@
+{
+  "name": "agent-office",
+  "description": "Agent Office: watch Claude and its helper agents work in a small animated office",
+  "owner": { "name": "Nauman Safdar" },
+  "plugins": [
+    {
+      "name": "agent-office",
+      "source": "./plugins/agent-office",
+      "description": "Watch Claude and its helper agents work in a small animated office"
+    }
+  ]
+}
