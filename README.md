@@ -84,4 +84,4 @@ claude plugin uninstall agent-office
 
 ## License
 
-MIT. Made by Nauman Safdar, built with Claude.
+MIT. Made by Nauman Safdar.
